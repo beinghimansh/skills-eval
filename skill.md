@@ -14,7 +14,7 @@ scenarios:
  - "I've completed a discovery sprint and need to turn the findings into a PRD my engineers can act on"
 estimated_time: "60-120 min"
 ---
-
+## changing to make sure the SHA change is done with rescan.
 
 ## Purpose
 Guide product managers through structured PRD (Product Requirements Document) creation by orchestrating problem framing, user research synthesis, solution definition, and success criteria into a cohesive document. Use this to move from scattered notes and Slack threads to a clear, comprehensive PRD that aligns stakeholders, provides engineering context, and serves as a source of truth—avoiding ambiguity, scope creep, and the "build what's in my head" trap.
