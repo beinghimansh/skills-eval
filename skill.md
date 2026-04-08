@@ -4,7 +4,7 @@ description: Build a structured PRD that connects problem, users, solution, and 
 intent: >-
  Guide product managers through structured PRD (Product Requirements Document) creation by orchestrating problem framing, user research synthesis, solution definition, and success criteria into a cohesive document. Use this to move from scattered notes and Slack threads to a clear, comprehensive PRD that aligns stakeholders, provides engineering context, and serves as a source of truth—avoiding ambiguity, scope creep, and the "build what's in my head" trap.
 type: workflow
-theme: pm-artifacts
+theme: pm-artifacts -change for slug testing
 best_for:
  - "Writing a complete PRD from scratch"
  - "Structuring product requirements for an engineering handoff"
